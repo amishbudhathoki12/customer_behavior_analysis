@@ -15,8 +15,6 @@ The goal of this project was to extract meaningful insights from the dataset by 
 
 - **Python**
   - Pandas
-  - NumPy
-  - Matplotlib / Seaborn
 
 - **Database**
   - PostgreSQL
