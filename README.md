@@ -199,17 +199,8 @@ This project demonstrates a complete data analytics pipeline using Python, SQL, 
 
 Author
 
-Your Name
+Name: Amish Budhathoki
+Linkedin: AmishBudhathoki
+Github: amishbudhathoki12
 
-LinkedIn:
-GitHub:
 
-
-This structure is good for a portfolio because recruiters can immediately see:
-- what you built
-- what tools you used
-- your workflow
-- your technical skills
-- how to reproduce it
-
-You can replace the placeholders with your actual dataset/project details.
