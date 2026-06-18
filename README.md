@@ -11,19 +11,6 @@ The goal of this project was to extract meaningful insights from the dataset by 
 
 ---
 
-## Dataset
-
-**Dataset Name:**  
-(Add your dataset name)
-
-**Source:**  
-(Add dataset source/link)
-
-**Description:**  
-The dataset contains information about (briefly explain your data). It was analyzed to identify trends, patterns, and key business insights.
-
----
-
 ## Tools & Technologies
 
 - **Python**
